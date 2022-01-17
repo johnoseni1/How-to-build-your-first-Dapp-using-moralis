@@ -13,9 +13,9 @@
 
 - Create a new file in your visual studio code called ``index.html`` and copy the following code.
 
-``
+```
 
-<html>
+ <html>
   <head>
   
     <!-- Moralis software development kit code -->
@@ -36,7 +36,7 @@
     </script>
   </body>
 </html>
-``
+```
 
 iekkew
 
