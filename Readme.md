@@ -51,3 +51,5 @@
 # Hurray!!!, 
 
 use and enjoy
+
+If you wanna go on , with more, feel free to visit  [The place to help you up more](https://docs.moralis.io/guides/build-a-simple-dap-in-3-mins-login-part-2)
