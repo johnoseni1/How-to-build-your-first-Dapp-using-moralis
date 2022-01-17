@@ -36,3 +36,7 @@
   </body>
 </html>
 ```
+
+## Get your Moralis Application ID and Moralis Server URL
+
+- When the server instance has been created, get your Moralis server URL and application ID and paste them into the ``<script>`` tag where indicated in the code above
