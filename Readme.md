@@ -13,14 +13,17 @@
 
 - Create a new file in your visual studio code called ``index.html`` and copy the following code.
 
-`` <html>
+``
+<html>
   <head>
+  
     <!-- Moralis software development kit code -->
     <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
     <script src="https://unpkg.com/moralis/dist/moralis.js"></script>
   </head>
   <body>
     <h1>Moralis Dapp</h1>
+    
     <button id="btn-login">login to moralis</button>
     <button id="btn-logout">Logout</button>
     <script>
@@ -31,7 +34,8 @@
 
     </script>
   </body>
-</html>``
+</html>
+``
 
 iekkew
 
