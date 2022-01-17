@@ -21,20 +21,17 @@
   </head>
   <body>
     <h1>Moralis Dapp</h1>
-
     <button id="btn-login">login to moralis</button>
     <button id="btn-logout">Logout</button>
-
     <script>
       // connect to Moralis server
-
       const serverUrl = "https://xxxxx/server";
       const appId = "YOUR_APP_ID";
       Moralis.start({ serverUrl, appId });
 
     </script>
   </body>
-</html> ``
+</html>``
 
 
 
