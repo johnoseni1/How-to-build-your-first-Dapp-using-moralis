@@ -40,3 +40,7 @@
 ## Get your Moralis Application ID and Moralis Server URL
 
 - When the server instance has been created, get your Moralis server URL and application ID and paste them into the ``<script>`` tag where indicated in the code above
+
+![image address](https://docs.moralis.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVStbACGLCycg7J5WQ2%2F-MhT9ur04bEBvZ15Qlrf%2F-MhTCJn-jDryN6LL7rbc%2Fimage.png?alt=media&token=dc0517b3-fb21-43ab-b62d-23f07835a5b3)
+
+
