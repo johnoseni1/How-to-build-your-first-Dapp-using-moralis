@@ -23,7 +23,7 @@
     <script src="https://unpkg.com/moralis/dist/moralis.js"></script>
   </head>
   <body>
-    <h2>Moralis Dapp</h2>
+    <span>Moralis Dapp</span>
     
     <button id="btn-login">login to moralis</button>
     <button id="btn-logout">Logout</button>
