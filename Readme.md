@@ -11,3 +11,5 @@
 
 - In order to communicate with the Moralis Server, we need to include the Moralis code in our dApp. Open your favorite text editor. I recommend [Visual Studio Code](https://code.visualstudio.com) with the [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension to make running the web page super easy.
 
+- Create a new file in your visual studio code called ``index.html`` and copy the following code.
+
