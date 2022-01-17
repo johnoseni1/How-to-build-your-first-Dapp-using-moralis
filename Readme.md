@@ -14,7 +14,6 @@
 - Create a new file in your visual studio code called ``index.html`` and copy the following code.
 
 ```
-
  <html>
   <head>
   
@@ -37,8 +36,3 @@
   </body>
 </html>
 ```
-
-iekkew
-
-
-
